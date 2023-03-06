@@ -1,5 +1,28 @@
 # Phase 3 Project Guidelines
 
+### AUTHOR:
+## Abdirizak Mohamed
+
+### Minimum Viable Product
+The following features must be completed in order to consider your submission as valid:
+*Users should be able to register / login to the application.*
+*A user should be able to create a project and add details about it.*
+*A user should be able to add other users as members of the project.*
+*Members of a project should be able to update the status of the project.*
+*A user should  be able to view all the projects.*
+*A user should be able delete a project.*
+*A user should be able to view all the status updates of the project.*
+*In order to use the application, the user must be logged in.*
+
+**Technologies used**
+HTML5
+Cascading Style Sheet
+Javascript
+Ruby
+React
+SQL
+Git
+
 ## Learning Goals
 
 - Build a web basic API with Sinatra and Active Record to support a React
